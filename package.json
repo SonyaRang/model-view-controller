@@ -1,0 +1,22 @@
+{
+  "name": "model-view-controller",
+  "version": "1.0.0",
+  "description": "AS A developer who writes about tech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SonyaRang/model-view-controller.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SonyaRang/model-view-controller/issues"
+  },
+  "homepage": "https://github.com/SonyaRang/model-view-controller#readme",
+  "dependencies": {
+    "handlebars": "^4.7.7"
+  }
+}
